@@ -1,0 +1,5 @@
+{
+  "name": "BlendArchitect AI",
+  "description": "Generate complex 3D scenes in Blender using AI-powered Python scripting. Describe your scene or upload a sketch, and get ready-to-run bpy code.",
+  "requestFramePermissions": []
+}
